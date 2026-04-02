@@ -1,0 +1,1 @@
+uv run agent/s01_agent_loop.py
