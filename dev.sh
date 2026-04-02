@@ -1,1 +1,1 @@
-uv run agent/s01_agent_loop.py
+uv run agent/s02_tool_use.py
