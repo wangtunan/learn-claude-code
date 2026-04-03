@@ -1,1 +1,1 @@
-uv run agent/s03_todo_write.py
+uv run agent/s04_subagent.py
