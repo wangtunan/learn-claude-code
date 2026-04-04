@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "utility-server": {
+      "command": "python3",
+      "args": ["/full/path/to/your/mcp-server/utility_server.py"],
+      "env": {
+        "PYTHONPATH": "/full/path/to/your/mcp-server"
+      }
+    },
+    "weather-server": {
+      "command": "python3",
+      "args": ["/full/path/to/weather_server.py"],
+      "env": {
+        "WEATHER_API_KEY": "your_api_key_here"
+      }
+    },
+    "file-server": {
+      "command": "node",
+      "args": ["/full/path/to/file_server.js"]
+    }
+  }
+}

@@ -1,1 +1,1 @@
-uv run agent/s04_subagent.py
+uv run agent/s05_skill_loading.py
