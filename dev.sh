@@ -1,1 +1,1 @@
-uv run agent/s05_skill_loading.py
+uv run agent/s06_context_compact.py

@@ -2,5 +2,8 @@
 .env*.local
 .env
 
+# transcripts
+.transcripts/
 
+# python cache
 __pycache__
